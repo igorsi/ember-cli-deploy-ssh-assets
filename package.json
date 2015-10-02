@@ -1,7 +1,7 @@
 {
-  "name": "ember-cli-deploy-ssh",
-  "version": "0.0.3",
-  "description": "Deploy your Ember revisions via ssh.",
+  "name": "ember-cli-deploy-ssh-assets",
+  "version": "0.0.1",
+  "description": "Deploy your Ember revisions assets via ssh.",
   "directories": {
     "doc": "doc"
   },
@@ -10,7 +10,7 @@
     "build": "ember build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/eddflrs/ember-cli-deploy-ssh",
+  "repository": "https://github.com/igorsi/ember-cli-deploy-ssh-assets",
   "engines": {
     "node": ">= 0.10.0"
   },
